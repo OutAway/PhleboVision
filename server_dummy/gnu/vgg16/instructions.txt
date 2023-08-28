@@ -1,0 +1,16 @@
+1) Main.py - Inicializador e modulador dos principais parâmetros de treinamento
+
+2) engine.py - arquitetura vgg16
+
+3) anlsys.py - arquivo base de implementação do tensorboard
+
+4) nwimg.py - escolhe modelo e testa em foto nova
+
+
+Observações: 
+
+3 e 4 ainda são esboços.
+
+Main.py traz consigo algumas funcionalidades estátisticas: 
+	print das métricas durante o treinamento
+	escrita de pdf com dados do treinamento (podendo ser melhorado)

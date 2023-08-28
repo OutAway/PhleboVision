@@ -1,0 +1,8 @@
+MAPA
+
+old: arquivos variados e notebooks usados como fonte para formulação do script até aqui
+
+- pequeno dataset + anotações p/ vgg-16 e r50fpn.
+
+
+server_dummy: arquivos do servidor, exceto modelo e dataset
