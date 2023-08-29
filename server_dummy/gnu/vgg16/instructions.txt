@@ -9,6 +9,8 @@
 
 Observações: 
 
+Criar env p/ este template
+
 3 e 4 ainda são esboços.
 
 Main.py traz consigo algumas funcionalidades estátisticas: 
